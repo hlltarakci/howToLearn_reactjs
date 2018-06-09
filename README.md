@@ -3,6 +3,8 @@
 # How to Learn ReactJS
 This is a roadmap on learning reactjs, part of [How to Learn Series](https://github.com/hlltarakci/howToLearnSeries).
 
+## Prerequisite
+Basic javascript knowledge is required. 
 
 ## Quickstart
 [React on Github](https://github.com/facebook/react "ReactJS Repo")
